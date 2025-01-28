@@ -5,6 +5,7 @@ This project uses the ClinVar dataset provided by [Kevin Arvai](https://www.kagg
 - **Conflicting classifications (1)**
 
 By analyzing genetic attributes and applying machine learning algorithms, this project provides insights into the reliability of genetic variant classifications and supports researchers in their efforts to interpret genetic data.
+
 ---
 
 ## Dataset Description
